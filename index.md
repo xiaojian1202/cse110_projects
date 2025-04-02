@@ -8,7 +8,7 @@ print('hello world')
 ```
 
 Link to the [Github repo](https://github.com/xiaojian1202/cse110_projects)
-Link to the [top of the page](#Xiaojian Chen)
+Link to the [top of the page](#Xiaojian-Chen)
 [README](README.md)
 
 Favorite basketball players:
