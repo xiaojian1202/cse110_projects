@@ -22,5 +22,5 @@ List of favorite animes:
 - Naruto
 
 - [x] complete lab 1
-- [ ] get started for other classes
+- [ ] get started for other classes<br/>
 ![nice](https://media.makeameme.org/created/very-nice-5c68dd.jpg)
