@@ -23,3 +23,4 @@ List of favorite animes:
 
 - [x] complete lab 1
 - [ ] get started for other classes
+![nice](https://media.makeameme.org/created/very-nice-5c68dd.jpg)
